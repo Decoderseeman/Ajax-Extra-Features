@@ -39,7 +39,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
 <b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
-✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮𝘆
+✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮
 ✮ 𝗣𝗮𝘆𝘁𝗺
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
@@ -173,8 +173,7 @@ Do as you wish with telegra.ph module!
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Aadhi011>𝙰𝙰𝙳𝙷𝙸</a></b>"""
-
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Aadhi011>𝙰𝙰𝙳𝙷𝙸</a></b>""
     JSON_TXT ="""<b>JSON:</b>
 
 Bot returns json for all replied messages with /json
